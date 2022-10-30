@@ -5,7 +5,7 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.header {
   width: 500px;
   margin: 0 auto;
   display: block;
@@ -16,14 +16,14 @@ img {
   width: 100%;
 }
 
-.aaa,
-.more-inf {
+.header,
+.more-info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
 
-  .aaa {
+  .header {
     text-align: center;
   }
 
